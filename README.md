@@ -13,7 +13,10 @@ This project demonstrates key concepts of enterprise application development, in
 
 
 PROJECT STRUCTURE
-<img width="298" height="396" alt="image" src="https://github.com/user-attachments/assets/9a8413cc-f0a3-4781-a633-ac833cb30900" />
+
+
+<img width="718" height="584" alt="image" src="https://github.com/user-attachments/assets/37bbc9c7-23cd-4982-8f0e-66569f34d782" />
+
 
 
 
