@@ -13,34 +13,7 @@ This project demonstrates key concepts of enterprise application development, in
 
 
 PROJECT STRUCTURE
+<img width="298" height="396" alt="image" src="https://github.com/user-attachments/assets/9a8413cc-f0a3-4781-a633-ac833cb30900" />
 
-StudentManagementSystem
-│
-├── src/main/java
-│   └── com/example/studentmanagement
-│       ├── controller
-│       │      StudentController.java
-│       │
-│       ├── entity
-│       │      Student.java
-│       │
-│       ├── repository
-│       │      StudentRepository.java
-│       │
-│       ├── service
-│       │      StudentService.java
-│       │      StudentServiceImpl.java
-│       │
-│       └── StudentManagementApplication.java
-│
-├── src/main/resources
-│   ├── templates
-│   │      index.html
-│   │      add-student.html
-│   │      edit-student.html
-│   │
-│   ├── static
-│   │
-│   └── application.properties
-│
-└── pom.xml
+
+
